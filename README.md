@@ -15,8 +15,8 @@ Features
 
 
 How It Works
-1. copy the code and run streamlit on your device.
-2.  Paste a YouTube video URL.
+1. Copy the code and run streamlit on your device.
+2. Paste a YouTube video URL.
 3. Transcript Extraction: The tool fetches the video's transcript.
 4. LLM Analysis: The LLM processes the transcript to identify key information.
 5. Summary Generation: A concise, coherent summary is generated.
