@@ -21,3 +21,8 @@ How It Works
 4. LLM Analysis: The LLM processes the transcript to identify key information.
 5. Summary Generation: A concise, coherent summary is generated.
 6. Output: View and/or save the summary.
+
+Acknowledgements
+This project was inspired by the growing need for efficient information consumption.
+Thanks to the developers of the LLM libraries used in this project.
+Kudos to the open-source community for their valuable contributions.
